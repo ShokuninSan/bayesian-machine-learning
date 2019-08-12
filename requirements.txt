@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scikit-optimize==0.5.2
+GPy==1.9.8
+GPyOpt==1.2.1
+xgboost==0.90
